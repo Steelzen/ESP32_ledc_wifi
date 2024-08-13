@@ -2,7 +2,7 @@ dependencies:
   espressif__qrcode:
     component_hash: null
     source:
-      path: C:\Users\user\esp\my_projects\wifi_ledc\components\espressif__qrcode
+      path: /Users/taehyungkwon/esp/projects/ESP32_ledc_wifi/components/espressif__qrcode
       type: local
     version: 0.1.0~2
   idf:
