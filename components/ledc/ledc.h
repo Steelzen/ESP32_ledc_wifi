@@ -1,5 +1,4 @@
-#ifndef LEDC_H
-#define LEDC_H
+#pragma once
 
 #include "driver/ledc.h"
 #include "esp_err.h"
@@ -16,4 +15,3 @@
 // declaration of functions
 void ledc_init(void);
 
-#endif

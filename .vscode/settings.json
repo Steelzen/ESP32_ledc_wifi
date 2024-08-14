@@ -16,7 +16,8 @@
     "idf.toolsPathWin": "C:\\Users\\user\\.espressif",
     "files.associations": {
         "manager.h": "c",
-        "scheme_ble.h": "c"
+        "scheme_ble.h": "c",
+        "esp_err.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

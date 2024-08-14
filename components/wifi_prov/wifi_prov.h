@@ -1,5 +1,4 @@
-#ifndef WIFI_PROV_H
-#define WIFI_PROV_H
+#pragma once
 
 #include <stdio.h>
 #include <string.h>
@@ -20,5 +19,5 @@
 // Declare functions
 void wifi_prov_task(void);
 
-#endif
+
 
